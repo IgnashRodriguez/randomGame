@@ -14,7 +14,7 @@ public class randonGame{
         num = input.nextInt();
        
         boolean win = false;
-        
+        //Good job. Please try:  while (!win)
         while (win == false){
         numberofTries++; //keep count of tries
     
